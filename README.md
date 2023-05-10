@@ -11,3 +11,8 @@ The group's official website can be found [here](https://virologie-ccm.charite.d
 ## Publications
 
 You can find a list of the group's publication [here](https://forschungsdatenbank.charite.de/experts/single/publications.xhtml?id=88ce89b5a64949af99d91a62759747a3&lang=en).
+
+## Conventions
+
+* **Repository names:** When creating a repository, always use kebab-case with all lower case letters (`my-awesome-project`)
+* **Documentation standards:** Each repository must have a `README.md` file outlining the purpose of the repository
